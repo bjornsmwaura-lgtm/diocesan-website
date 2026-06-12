@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+            .maelezo{
+                background-color:whitesmoke;
+                color: black;
+                display: flex;
+                gap: 220px;
+                justify-content: center;
+                align-items: center;  
+                width: 100%;
+                height: 60vh;
+                
+            }
+            .split-left{
+                text-align: center;
+            }
+
+            .split-left img {
+                width: 380px;
+                height: 40vh;
+                border-radius: 10px;
+                margin-bottom: 20px;
+                }
+     
+
+                    .text-maelezo p {
+                        font-size: 1rem;
+                        line-height: 2.1;
+                        margin-bottom: 15px;
+                        color: black;
+                        }
+
+            .latest{
+                background-color: orange;
+                display: flex;
+                justify-content: center;
+                gap: 40px;
+                min-height: 70vh;
+            }
+
+           
+
+
+                    .jm{
+                  
+                    text-align: center;
+                    border-radius: 30px;
+                    align-items: center;
+                    background-color: blue;
+                    width: 350px;
+                    justify-content: center;
+                    
+                    }
+
+                    .jm img{
+                        width: 350px;
+                        height: 30vh;
+                        align-items: center;
+                        border-radius: 30px;
+                        
+}
