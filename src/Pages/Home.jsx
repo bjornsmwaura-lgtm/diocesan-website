@@ -58,7 +58,7 @@ function Home(){
 <img src={jm} alt="my image" />
 <h3>Who we are </h3>
 <p style={{
-  width:"300px",
+  width:"400px",
   display:"block"
 }}>
 The Catholic Diocese of Malakal is a Latin Rite diocese within the Metropolitan Archdiocese of Juba.We serve the Catholic faithful 
