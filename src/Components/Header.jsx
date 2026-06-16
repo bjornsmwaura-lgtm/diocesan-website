@@ -35,7 +35,7 @@ function Header(){
                 </div>
                     <nav style={{display:"flex", alignItems:"center", justifyContent:"center", gap:"50px",}}>
                     <Link style={{textDecoration:"none"}} to={"/"}>Home</Link>
-                    <Link style={{textDecoration:"none"}} to={"/"}>About</Link>
+                    <Link style={{textDecoration:"none"}} to={"/About"}>About</Link>
                     <Link style={{textDecoration:"none"}} to={"/"}>Curia</Link>
                     <Link style={{textDecoration:"none"}} to={"/"}>Deaneries</Link>
                     <Link style={{textDecoration:"none"}} to={"/"}>Events</Link>
