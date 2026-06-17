@@ -38,7 +38,7 @@ function Header(){
                     <Link style={{textDecoration:"none"}} to={"/About"}>About</Link>
                     <Link style={{textDecoration:"none"}} to={"/"}>Curia</Link>
                     <Link style={{textDecoration:"none"}} to={"/"}>Deaneries</Link>
-                    <Link style={{textDecoration:"none"}} to={"/"}>Events</Link>
+                    <Link style={{textDecoration:"none"}} to={"/Events"}>Events</Link>
                     <Link style={{textDecoration:"none"}} to={"/"}>Contact</Link>
                    
                 </nav>
