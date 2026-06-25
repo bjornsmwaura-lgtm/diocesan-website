@@ -43,6 +43,10 @@ function Header(){
                    
                 </nav>
                 </section>
+                <section style={{backgroundColor:"azure", width:"100%",height:"5vh"}} >
+                    <h2><marquee>Catholic Diocese of Malakal</marquee></h2>
+
+                </section>
             
           
         
